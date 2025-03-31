@@ -34,7 +34,7 @@ deepeval
 weave 
 trulens 
 trulens-eval
-crewai
+
 
 # for loRA fine tuning 
 peft
@@ -45,3 +45,13 @@ librosa
 
 # for search engine
 duckduckgo-search
+
+
+# for web scraping
+crawl4ai
+
+
+# for AI agents
+crewai
+crewai[tools]
+crewai-tools
